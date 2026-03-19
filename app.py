@@ -92,7 +92,7 @@ st.markdown("---")
 col_g1, col_g2 = st.columns(2)
 
 # -------------------------
-# Gráfico 1: Tendencias por mall (INTERACTIVO)
+# Gráfico 1: Tendencias por mall 
 # -------------------------
 with col_g1:
     st.subheader("Tendencia de compras por Centro Comercial")
@@ -152,7 +152,7 @@ with col_g2:
 col_g3, col_g4 = st.columns(2)
 
 # -------------------------
-# Gráfico 3: Perfil del comprador (mejorado)
+# Gráfico 3: Perfil del comprador
 # -------------------------
 with col_g3:
     st.subheader("Distribución de compras por género")
